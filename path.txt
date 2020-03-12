@@ -1,0 +1,5 @@
+1) learn basic JS from Mozilla
+2) learn basic React from React
+3) learn React from Udacity
+4) finish the Tracks app
+5) learn React + AntDesign with the Airbnb app
