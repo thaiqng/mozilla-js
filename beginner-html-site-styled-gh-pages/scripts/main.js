@@ -8,6 +8,6 @@ myImage.onclick = function() {
     myImage.setAttribute('src', 'images/bigeye.png') // set attribute
   }
   else{
-    myImage.setAttribute('src', 'images/firefox-icon')
+    myImage.setAttribute('src', 'images/firefox-icon.png')
   }
 }
