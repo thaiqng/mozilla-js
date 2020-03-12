@@ -19,7 +19,7 @@ This is called variable scoping.
 */
 
 // events and listeners from the DOM API
-document.querySelector('html').onclick = function() {
+document.querySelector('html').onclick = function() { // anonymous func in this case is like call this routine
     alert('Ouch! Stop poking me!');
 }
 // onclick is an event listener/handler
